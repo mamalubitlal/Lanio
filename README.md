@@ -8,6 +8,8 @@
 
 A sovereign digital nation, running on Telegram and Matrix. Every citizen holds an identity they own, and every trade passes through escrow the state can't quietly undo.
 
+**Web portal:** <https://mamalubitlal.github.io/Lanio/> (served from [`docs/`](docs/)).
+
 Founded September 2026. Civil rights: world benchmark. The classification is "Scandinavian Liberal Paradise" and the intent is to keep earning it.
 
 ## The law
