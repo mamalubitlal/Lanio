@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <title>Flag of the Kingdom of Lanio — Concept A "The Dawn Cross"</title>
+  <desc>Civil flag. Nordic cross pattern: warm vermilion field (the people's warmth), gold cross (Lanio's light), cream inner cross (the swan).</desc>
+  <rect width="1600" height="1000" fill="#C8402F"/>
+  <rect x="500" width="200" height="1000" fill="#F2A93B"/>
+  <rect y="400" width="1600" height="200" fill="#F2A93B"/>
+  <rect x="550" width="100" height="1000" fill="#FFF9F0"/>
+  <rect y="450" width="1600" height="100" fill="#FFF9F0"/>
+</svg>

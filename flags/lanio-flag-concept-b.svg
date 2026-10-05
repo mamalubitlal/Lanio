@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <title>Flag of the Kingdom of Lanio — Concept B "The Golden Field"</title>
+  <desc>Nordic cross pattern: gold field (the light of Lanio), swan-white cross, warm vermilion inner cross (the people's heart).</desc>
+  <rect width="1600" height="1000" fill="#F5B325"/>
+  <rect x="500" width="200" height="1000" fill="#FFFDF7"/>
+  <rect y="400" width="1600" height="200" fill="#FFFDF7"/>
+  <rect x="550" width="100" height="1000" fill="#C8402F"/>
+  <rect y="450" width="1600" height="100" fill="#C8402F"/>
+</svg>
