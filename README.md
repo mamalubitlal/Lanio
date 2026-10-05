@@ -1,45 +1,42 @@
-# 🏛️ The Kingdom of Lanio
+# The Kingdom of Lanio
 
 <p align="center">
-  <img src="flags/lanio-flag-concept-c-v2.png" width="480" alt="Flag of the Kingdom of Lanio — the Swan Standard">
+ <img src="flags/lanio-flag-concept-c-v2.png" width="480" alt="Flag of the Kingdom of Lanio, the Swan Standard">
 </p>
 
-> **By The People For The People**
+> By The People For The People
 
-A sovereign digital nation. Warm, liberal, and built to last — running on Telegram and Matrix, with an identity every citizen owns and an economy every citizen can trust.
+A sovereign digital nation, running on Telegram and Matrix. Every citizen holds an identity they own, and every trade passes through escrow the state can't quietly undo.
 
-**Classification:** Scandinavian Liberal Paradise · civil rights: World Benchmark · Founded: September 2026
+Founded September 2026. Civil rights: world benchmark. The classification is "Scandinavian Liberal Paradise" and the intent is to keep earning it.
 
----
+## The law
 
-## 📜 The Law
+The [Foundational Codex](docs/law/lanio-foundational-codex.md) is the law of the land: seven chapters, twenty-five articles, adopted in a single sitting on 4 October 2026. An [internal edition](docs/archive/lanio-foundational-codex-internal.md) records where each article came from, for the state archive.
 
-- **[The Foundational Codex](docs/law/lanio-foundational-codex.md)** — the law of the land, as adopted in the Founding Session of 4 October 2026. Seven chapters, twenty-five articles.
-- *[Internal provenance edition](docs/archive/lanio-foundational-codex-internal.md) — archive copy with full citations of where each article came from.*
+## The six services
 
-## 🏛️ The Six Core Services
-
-| Service | Role |
+| Service | What it does |
 |---|---|
-| 🌌 **Cosmos** | Identity & SSO — every citizen gets a Digital ID File (self-custodial, revocable, with recovery) |
-| 🏦 **Trapeza** | Treasury — the append-only ledger of the **elnina (Ɇ)**, cryptographically checkpointed daily |
-| 🏪 **Emporio** | Marketplace — all trade through state escrow. No gatekeeping, no licenses, no exceptions |
-| 💬 **Agora** | The public square — one nation, two protocols (Telegram ↔ Matrix), bridged in real time |
-| 📜 **Graphi** | Registry & archive — the constitution, the lore, the petitions, the Founding Register |
-| 🗺️ **Choros** | The map — districts and pixel claims of the Kingdom |
+| Cosmos | Identity and sign-on. Each citizen gets a Digital ID File: self-custodial, revocable, recoverable |
+| Trapeza | Treasury. Append-only ledger of the elnina (Ɇ), checkpointed daily |
+| Emporio | Marketplace. All trade through state escrow. No licenses, no gatekeeping |
+| Agora | The public square. One nation on two protocols, Telegram and Matrix, bridged live |
+| Graphi | Registry and archive. Constitution, lore, petitions, the Founding Register |
+| Choros | The map. Districts and pixel claims of the Kingdom |
 
-## 🚩 The Flag
+## The flag
 
-The **Swan Standard** — a Nordic cross for a Scandinavian Liberal Paradise: warm vermilion (the people), gold (the light of Lanio), and cream (the swan upon the water). See all concepts in [`flags/`](flags/).
+The Swan Standard: a Nordic cross in vermilion, gold, and cream. Vermilion for the people, gold for the light of Lanio, cream for the swan on the water. All three flag concepts are in [`flags/`](flags/), with the [swan's license noted](flags/ATTRIBUTION.md).
 
-## 🗺️ Roadmap
+## Roadmap
 
-1. **Foundation** — Cosmos + Agora (identity and voice)
-2. **Economy** — Trapeza + Emporio (money and trade, escrow-first)
-3. **Statehood** — Graphi + Choros (law and land)
+1. Foundation: Cosmos and Agora. Identity first, then a voice.
+2. Economy: Trapeza and Emporio. Money enters only after identity holds.
+3. Statehood: Graphi and Choros. Law and land, once there are citizens to govern.
 
-Full architecture: **[BLUEPRINT.md](docs/BLUEPRINT.md)**
+Full architecture lives in [BLUEPRINT.md](docs/BLUEPRINT.md).
 
 ---
 
-*The Kingdom renounces weapons of mass destruction and wages no wars of conquest. Its only standing force is its moderation staff.* — Codex, Art. 20
+The Kingdom renounces weapons of mass destruction and wages no wars of conquest. Its only standing force is its moderation staff. (Foundational Codex, Art. 20)

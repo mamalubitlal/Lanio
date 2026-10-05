@@ -1,6 +1,6 @@
 # Flag Attribution
 
-## Swan emblem — Concept C v2 ("The Swan Standard")
+## Swan emblem, Concept C v2 ("The Swan Standard")
 
 The swan glyph used in `lanio-flag-concept-c-v2.svg` is adapted from
 **"Swan" by Lorc** (game-icons.net), licensed under
